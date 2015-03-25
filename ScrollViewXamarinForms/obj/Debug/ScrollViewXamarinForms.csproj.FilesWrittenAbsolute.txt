@@ -1,0 +1,14 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/ScrollViewXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/ScrollViewXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/ScrollViewXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/ScrollViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/ScrollViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/ScrollViewXamarinForms.dll
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/ScrollViewXamarinForms.dll
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/obj/Debug/ScrollViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/ScrollViewXamarinForms/ScrollViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
